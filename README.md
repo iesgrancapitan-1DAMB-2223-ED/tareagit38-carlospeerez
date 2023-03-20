@@ -8,6 +8,7 @@
 3->Teclea un título y descripción para tu informe de problemas.
 
 OTRA FORMA DE CREAR UN ISSUE->
+
 1->Para crear una incidencia, use el subcomando 
 -gh issue create
 -gh issue create --title "My new issue" --body "Here are more details."
